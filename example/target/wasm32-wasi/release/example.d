@@ -1,0 +1,1 @@
+/app/wasmedge_hostfunctionexample_interface/example/target/wasm32-wasi/release/example.wasm: /app/wasmedge_hostfunctionexample_interface/example/src/main.rs /app/wasmedge_hostfunctionexample_interface/src/lib_counter.rs
